@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313496854966",
+    "project_id": "examenfinal-b0ca9",
+    "storage_bucket": "examenfinal-b0ca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313496854966:android:afa5d75990308152bd6117",
+        "android_client_info": {
+          "package_name": "com.example.examenfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiB7iJW0qvL0NFJriT1-1QkrWwbqT73Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
